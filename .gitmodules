@@ -1,0 +1,6 @@
+[submodule "hacc-fire-frontend"]
+	path = hacc-fire-frontend
+	url = https://github.com/macolby14/hacc-fire-frontend.git
+[submodule "hacc-fire-backend"]
+	path = hacc-fire-backend
+	url = https://github.com/macolby14/hacc-fire-backend.git
