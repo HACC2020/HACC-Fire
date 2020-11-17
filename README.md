@@ -1,4 +1,4 @@
-This is a submission for the Hawaii Annual Code Challenge (HACC 2020).
+This is a submission for the Hawaii Annual Code Challenge (HACC 2020). Check it out at https://hacc-fire-frontend.vercel.app/
 
 The challenge done was: Hawaii State Archives – Gamification of Crowdsource Indexing
 
